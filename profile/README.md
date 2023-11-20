@@ -1,3 +1,5 @@
+<img alt="Illustration of four people working together at a laptop" src="https://github.com/cendio/.github/raw/main/profile/thinlinc_illustration.png">
+
 ## Cendio
 
 The Swedish company Cendio was founded in 1992 by students from Linköping University, and is one of the oldest open-source companies in the world. During the first year of business the legal name of the company was Signum Support AB and the business was mainly focused on services and support against the local market. In early 2000 the company changed name to Cendio Systems, and the product Fuego Firewall was transferred to a new company called Ingate Systems, joint owned by Cendio and Intertex.
@@ -15,3 +17,5 @@ Open source projects are an essential part of our DNA, and we invest in helping 
 Developing open-source and proprietary software allows us to deliver the best of the two worlds. On the one hand, we offer a fully supported and enterprise-level Linux Remote Desktop Server – ThinLinc. ThinLinc fulfills the needs of several system administrators that need to handle complex multiuser and multi-device environments. On the other hand, we can make [TigerVNC](https://github.com/tigervnc), [noVNC](https://github.com/novnc), and others available for a greater community. Cendio’s business model helps people by making Linux technology accessible and affordable.
 
 When a customer decides to buy the ThinLinc subscriptions, this customer supports the development of open source software, as a great amount of our revenue is invested in those projects. We also make ThinLinc totally free for small installations, up to 10 users.
+
+![Decorative blue pattern](https://github.com/cendio/.github/raw/main/profile/pattern-blue.jpg)
